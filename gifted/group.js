@@ -14,7 +14,7 @@ gmd(
       conText;
 
     if (!isGroup) {
-      return reply("Groups Only Command only");
+      return reply("Groups Only Command only!");
     }
 
     if (!isBotAdmin) {
